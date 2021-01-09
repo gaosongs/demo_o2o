@@ -1,0 +1,6 @@
+2021-01-09 22:45:58.911 [main] DEBUG com.oto.mapper.ShopMapper.insertShop - ==>  Preparing: INSERT INTO tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc,shop_addr,phone,shop_img,priority,create_time,last_edit_time,enable_status,advice) VALUES (?,?,?,?, ?,?,?,?,?, ?,?, ?,?) 
+2021-01-09 22:45:58.955 [main] DEBUG com.oto.mapper.ShopMapper.insertShop - ==> Parameters: 1(Long), 2(Integer), 1(Long), 测试店铺(String), test(String), test(String), test(String), test(String), null, 2021-01-09 22:45:57.687(Timestamp), null, 1(Integer), 审核中(String)
+2021-01-09 22:45:58.965 [main] DEBUG com.oto.mapper.ShopMapper.insertShop - <==    Updates: 1
+2021-01-09 22:46:30.260 [main] DEBUG com.oto.mapper.ShopMapper.insertShop - ==>  Preparing: INSERT INTO tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc,shop_addr,phone,shop_img,priority,create_time,last_edit_time,enable_status,advice) VALUES (?,?,?,?, ?,?,?,?,?, ?,?, ?,?) 
+2021-01-09 22:46:30.307 [main] DEBUG com.oto.mapper.ShopMapper.insertShop - ==> Parameters: 1(Long), 2(Integer), 1(Long), 测试店铺(String), test(String), test(String), test(String), test(String), null, 2021-01-09 22:46:29.121(Timestamp), null, 1(Integer), 审核中(String)
+2021-01-09 22:46:30.315 [main] DEBUG com.oto.mapper.ShopMapper.insertShop - <==    Updates: 1
